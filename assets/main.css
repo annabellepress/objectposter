@@ -1,0 +1,70 @@
+body {
+	max-width: 1000px;
+	max-height: 800px;
+	font-family: helvetica neue;
+	color: #6f6f6f;
+}
+.title {
+	position: absolute;
+	font-size: 85px;
+	z-index: 2;
+	line-height: 80%;
+	padding-top: 15px;
+	letter-spacing: -2px
+}
+.E {
+	letter-spacing:3px;
+}
+.chunky {
+	margin-left: 194px;
+}
+.sweater {
+	margin-left: 350px;
+}
+.full-sweater {
+ 	position: absolute;
+	object-fit: scale-down;
+	margin-left: 300px;
+	padding-bottom: 40px;
+	top: 45px;
+}
+.menu {
+	margin-left: 85px;
+	padding-top: 150px;
+	color: #6f6f6f;
+	font-size: 20px;
+	padding-top: 175px;
+	text-decoration: none;
+}
+a:link {
+	color: #6f6f6f;
+	background-color: transparent;
+	transition: all 0.1s ease;
+	text-decoration: none;
+}
+a:visited {
+	color: #6f6f6f;
+	text-decoration: none;
+	background-color: transparent;
+}
+a:hover {
+	color: #6f6f6f;
+	color: #d4b697;
+	background-color: transparent;
+	transition: all 0.1s ease;
+	text-decoration: none;
+}
+.overview {
+	position: relative;
+	max-width: 840px;
+	color: #6f6f6f;
+	text-align: left;
+	padding-top: 115px;
+	padding-right: 60px;
+	margin-left: 665px;
+	z-index: 2;
+	font-size: 16px;
+	text-indent: 25px;
+	line-height: 20px;
+	font-family: edita;
+}

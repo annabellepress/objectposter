@@ -1,0 +1,108 @@
+body {
+	max-width: 1000px;
+	font-family: helvetica neue;
+	color: #6f6f6f;
+}
+.title {
+	font-size: 55px;
+	margin-left: 30px;
+	padding-top:20px;
+}
+.menu {
+	position: relative;
+	text-align: right;
+	color: #6f6f6f;
+	font-size: 20px;
+	z-index: 1;
+}
+a:link {
+	color: #6f6f6f;
+	background-color: transparent;
+	transition: all 0.1s ease;
+	text-decoration: none;
+}
+a:visited {
+	color: #6f6f6f;
+	text-decoration: none;
+	background-color: transparent;
+}
+a:hover {
+	color: #6f6f6f;
+	color: #d4b697;
+	background-color: transparent;
+	transition: all 0.1s ease;
+	text-decoration: none;
+}
+.bullet-journal {
+	position: absolute;
+	opacity: 0.4;
+	z-index: 0;
+	top: 10px;
+	left: 10px;
+}
+.full-image {
+	position: relative;
+	left: 85px;
+	top: 60px;
+}
+.description {
+	position: absolute;
+	margin-left: 120px;
+	margin-right: 45px;
+	font-size: 35px;
+	top: 350px;
+	font-family: edita;
+}
+.material-photo {
+	position: absolute;
+	left: 350px;
+	top: 480px;
+}
+.material {
+	position: absolute;
+	text-align: left;
+	margin-left: 580px;
+	max-width: 400px;
+	font-family: edita;
+	font-size: 20px;
+	top: 475px;
+}
+.basketweave-photo {
+	position: relative;
+	top: 650px;
+	left: 100px;
+}
+.ribbing-photo {
+	position: relative;
+	top: 850px;
+	left: -460px;
+}
+.cable-photo {
+	position: relative;
+	top: 810px;
+	left: 115px;
+}
+.stitches {
+	position: absolute;
+	top: 1550px;
+	text-align: left;
+	max-width: 300px;
+	margin-left: 690px;
+	font-family: edita;
+	font-size: 20px;
+}
+.pattern-pieces {
+	position: absolute;
+	left: 110px;
+	top: 880px;
+}
+.pattern {
+	position: relative;
+	display: block;
+	top: 180px;
+	font-size: 20px;
+	font-family: edita;
+	margin-left: 60px;
+	margin-right: 60px;
+
+}

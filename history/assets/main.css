@@ -1,0 +1,99 @@
+body {
+	max-width: 1000px;
+	font-family: helvetica neue;
+	color: #6f6f6f;
+}
+.title {
+	font-size: 55px;
+	margin-left: 30px;
+	padding-top: 20px;
+}
+
+.menu {
+	text-align: right;
+	color: #6f6f6f;
+	font-size: 20px;
+}
+a:link {
+	color: #6f6f6f;
+	background-color: transparent;
+	transition: all 0.1s ease;
+	text-decoration: none;
+}
+a:visited {
+	color: #6f6f6f;
+	text-decoration: none;
+	background-color: transparent;
+}
+a:hover {
+	color: #6f6f6f;
+	color: #d4b697;
+	background-color: transparent;
+	transition: all 0.1s ease;
+	text-decoration: none;
+}
+.unravelling {
+	position: relative;
+	padding-top: 30px;
+	margin-left: 250px;
+}
+.label1 {
+	font-family: helvetica neue;
+	font-size: 10px;
+	font-color: #6f6f6f;
+	margin-left: 250px;
+	padding-top: 412px;
+}
+.writing1 {
+	font-size: 20px;
+	font-color: #6f6f6f;
+	max-width: 720px;
+	padding-top: 45px;
+	margin-left: 180px;
+	font-family: edita;
+}
+.threads {
+	position: relative;
+	padding-top: 45px;
+	margin-left: 300px;
+}
+.label2 {
+	position: relative;
+	font-family: helvetica neue;
+	font-size: 10px;
+	font-color: #6f6f6f;
+	margin-left: 300px;
+}
+.paint {
+	position: relative;
+	margin-left: 225px;
+	padding-top: 65px;
+}
+.label3 {
+	position: relative;
+	font-family: helvetica neue;
+	font-size: 10px;
+	font-color: #6f6f6f;
+	margin-left: 225px;
+}
+.writing2 {
+	font-size: 20px;
+	font-color: #6f6f6f;
+	max-width: 720px;
+	padding-top: 45px;
+	margin-left: 180px;
+	font-family: edita;
+}
+.elastic {
+	position: relative;
+	margin-left: 200px;
+	padding-top: 65px;
+}
+.label4 {
+	position: relative;
+	font-family: helvetica neue;
+	font-size: 10px;
+	font-color: #6f6f6f;
+	margin-left: 200px;
+	padding-bottom: 45px;
+}
